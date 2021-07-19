@@ -1,0 +1,68 @@
+            html {
+                font-family: Roboto;
+            }
+            
+            .card {
+                max-width: 25rem;
+                height: 35rem;
+            }
+            
+            .card img {
+                height: 17rem;
+                max-width: 25rem;
+            }
+            
+            .botones_carrito {
+                margin-top: 5rem;
+            }
+            
+            .navbar img {
+                size: 1rem;
+                margin-right: 5px;
+            }
+            
+            .logo {
+                size: 1rem;
+                margin-right: 5px;
+            }
+            
+            .d-flex img {
+                margin-left: 2rem;
+            }
+            
+            #section1 {
+                background-image: url('../../images/fondo.jpg');
+                background-position: center  ;
+                background-size:cover;
+                color: seashell;
+            }
+            
+            #section1 p {
+                color: seashell;
+            }
+            .btn-group .btn{
+                width: 3rem;
+            }
+            .btn-group img {
+                width: 2rem;
+                height: 2rem;
+                margin: 0;
+            }
+            
+            #productos button {
+                color: white;
+            }
+            
+            .bd-placeholder-img {
+                font-size: 1.125rem;
+                text-anchor: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                user-select: none;
+            }
+            
+            @media (min-width: 768px) {
+                .bd-placeholder-img-lg {
+                    font-size: 3.5rem;
+                }
+            }
